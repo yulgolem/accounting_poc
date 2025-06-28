@@ -1,0 +1,18 @@
+[
+  {
+    "Date": "YYYY-MM-DD",
+    "Document_Type": "[Тип документа: Invoice, Cash Receipt, Bank Statement и т.д.]",
+    "Document_Number": "[Номер документа]",
+    "Description": "[Краткое, но информативное описание операции]",
+    "Debit_Account": "[Номер дебетового счета из плана счетов]",
+    "Debit_Account_Name": "[Название дебетового счета из плана счетов]",
+    "Credit_Account": "[Номер кредитового счета из плана счетов]",
+    "Credit_Account_Name": "[Название кредитового счета из плана счетов]",
+    "Amount": 0.00,
+    "Currency": "[Валюта операции, например, EUR, USD]",
+    "VAT_Applicable": false,
+    "VAT_Rate": 0,
+    "VAT_Reason": "[Причина применения НДС: Standard VAT, Export VAT (0%), Reverse Charge, Exempt from VAT, или пояснение, почему информация неполная]",
+    "Confidence_Score": 0.00
+  }
+]

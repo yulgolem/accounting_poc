@@ -1,0 +1,1186 @@
+{
+  "accounts": [
+    {
+      "Konts": "1120",
+      "Nosaukums": "Koncesijas, patenti, licences, tirdz. Zīmes un līdz. Ties., datoru progr.",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1121",
+      "Nosaukums": "Accounting platform software",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "1190",
+      "Nosaukums": "Nemateriālo ieguldījumu vērt. norakstītā daļa (P)",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1220",
+      "Nosaukums": "Tehnoloģiskās iekārtas un mašīnas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1230",
+      "Nosaukums": "Pārējie pamatlīdzekļi un inventārs",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "1240",
+      "Nosaukums": "Pamatlīdzekļu izveidošana un nepabeigto celtn. objektu izmaksas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1290",
+      "Nosaukums": "Pamatlīdzekļu nolietojums (P)",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1310",
+      "Nosaukums": "Līdzdalība radniecīgo uzņēmumu kapitālā",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1320",
+      "Nosaukums": "Aizdevumi radniecīgajiem uzņēmumiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1330",
+      "Nosaukums": "Līdzdalība saistīto uzņēmumu kapitālā",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1340",
+      "Nosaukums": "Aizdevumi saistītajiem uzņēmumiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1350",
+      "Nosaukums": "Pārējie vērtspapīri un ieguldījumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "1360",
+      "Nosaukums": "Pārējie aizdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1370",
+      "Nosaukums": "Pašu akcijas un daļas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "1380",
+      "Nosaukums": "Aizdevumi uzņēmuma līdzīpašniekiem un vadībai",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2110",
+      "Nosaukums": "Izejvielas un krājumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2120",
+      "Nosaukums": "Nepabeigtie ražojumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2130",
+      "Nosaukums": "Gatavie ražojumi un preces pārdošanai",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2140",
+      "Nosaukums": "Nepabeigtie pasūtījumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2150",
+      "Nosaukums": "Mazvērtigai inventars",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2190",
+      "Nosaukums": "Avansa maksājumi par precēm",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2210",
+      "Nosaukums": "Pieaugušie produktīvie lopi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2220",
+      "Nosaukums": "Jaunlopi un sīkie dzīvnieki",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2230",
+      "Nosaukums": "Darba lopi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2290",
+      "Nosaukums": "Darba lopu norakstītā vērtība (P)",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2310",
+      "Nosaukums": "Norēķini ar pircējiem un pasūtītājiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2312",
+      "Nosaukums": "Norēķini ar pircējiem un pasūtītājiem 3.valstis",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2320",
+      "Nosaukums": "Par piegādēm un pasūtītājiem saņemtie vekseļi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2330",
+      "Nosaukums": "Meitas uzņēmumu parādi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2340",
+      "Nosaukums": "Saistīto uzņēmumu parādi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2350",
+      "Nosaukums": "Norēķini ar citiem debitoriem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2360",
+      "Nosaukums": "Norēķini par parakstītā sabiedrības kapitālā neiemaksātām summām",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2370",
+      "Nosaukums": "Īstermiņa aizdevumi sabiedrības dalībniekiem un vadībai",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2380",
+      "Nosaukums": "Norēķini par prasībām pret personālu un īstermiņa aizdevumi personālam",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2381",
+      "Nosaukums": "Norēķini par prasībām pret personālu - karte",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2390",
+      "Nosaukums": "Pārmaksātie nodokļi, iepriekš samaksātie nodokļi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2410",
+      "Nosaukums": "Nākamo periodu izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2420",
+      "Nosaukums": "Akciju emisijas nocenojums (disagio)",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2510",
+      "Nosaukums": "Meitas uzņēmumu akcijas un daļas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2520",
+      "Nosaukums": "Saistīto uzņēmumu akcijas un daļas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2530",
+      "Nosaukums": "Pašu uzņēmuma akcijas un daļas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2540",
+      "Nosaukums": "Pārējie vērtspapīri un līdzdalība kapitālos",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2610",
+      "Nosaukums": "Kase",
+      "Konta tips": "Kases konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2620",
+      "Nosaukums": "Paysera LT - LT313500010010092422",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2621",
+      "Nosaukums": "Paysera LT - LT303500010010490528",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2622",
+      "Nosaukums": "Transferwise EUR",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2623",
+      "Nosaukums": "VTB Bank RUB 40807810400000000006",
+      "Valūta": "EUR",
+      "Konta tips": "Bankas konts"
+    },
+    {
+      "Konts": "2624",
+      "Nosaukums": "VTB Bank EUR 40807978100000000002",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2626",
+      "Nosaukums": "Alfa-Bank EUR 40807978232130000012",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2627",
+      "Nosaukums": "Transferwise USD",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "26271",
+      "Nosaukums": "Transferwise USD",
+      "Valūta": "USD",
+      "Konta tips": "Bankas konts"
+    },
+    {
+      "Konts": "2628",
+      "Nosaukums": "Paysera LT - LT573500010013215645",
+      "Valūta": "EUR",
+      "Konta tips": "Bankas konts"
+    },
+    {
+      "Konts": "2629",
+      "Nosaukums": "PAYPAL EUR",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2630",
+      "Nosaukums": "PAYPAL USD",
+      "Konta tips": "Bankas konts",
+      "Valūta": "USD"
+    },
+    {
+      "Konts": "2631",
+      "Nosaukums": "PAYSERA EUR 5653",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2632",
+      "Nosaukums": "PAYSERA GEL",
+      "Konta tips": "Bankas konts",
+      "Valūta": "GEL"
+    },
+    {
+      "Konts": "2633",
+      "Nosaukums": "WISE GEL",
+      "Konta tips": "Bankas konts",
+      "Valūta": "GEL"
+    },
+    {
+      "Konts": "2634",
+      "Nosaukums": "Paysera 935010015860840",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2635",
+      "Nosaukums": "PAYSERA 583500010016290430",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2636",
+      "Nosaukums": "REVOLUT EUR 107842745",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2637",
+      "Nosaukums": "REVOLUT card LT943250078584843451",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2638",
+      "Nosaukums": "Revolut LT943250078584843451",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2639",
+      "Nosaukums": "REVOLUT LT483250029855773056",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "26398",
+      "Nosaukums": "REVOLUT USD LT693250060107842745",
+      "Konta tips": "Bankas konts",
+      "Valūta": "USD"
+    },
+    {
+      "Konts": "26399",
+      "Nosaukums": "Revolut LT453250029763330170",
+      "Valūta": "EUR",
+      "Konta tips": "Bankas konts"
+    },
+    {
+      "Konts": "2640",
+      "Nosaukums": "Akreditīvi, čeki un īpašu norēķina formu konti",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2641",
+      "Nosaukums": "Revolut LT87 3250 0827 8678 1436",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2642",
+      "Nosaukums": "Broker Revolut USD",
+      "Konta tips": "Bankas konts",
+      "Valūta": "USD"
+    },
+    {
+      "Konts": "2643",
+      "Nosaukums": "Broker Revolut EUR",
+      "Konta tips": "Bankas konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2650",
+      "Nosaukums": "Citi konti bankās",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "2660",
+      "Nosaukums": "konvertacija",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "2670",
+      "Nosaukums": "Pārējie naudas līdzekļi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3110",
+      "Nosaukums": "Pamatkapitāls vai līdzdalības kapitāls",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3120",
+      "Nosaukums": "Akciju emisijas uzcenojums (agio)",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3130",
+      "Nosaukums": "Ilgtermiņa ieguldījumu pārvērtēšanas rezerve",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3210",
+      "Nosaukums": "Privātiem nolūkiem izņemtie līdzekļi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3220",
+      "Nosaukums": "Privātie ieguldījumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "3310",
+      "Nosaukums": "Rezerves kapitāls",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "3330",
+      "Nosaukums": "Citas likumā paredzētās rezerves",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3340",
+      "Nosaukums": "Rezerve pašu akcijām un daļām",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "3350",
+      "Nosaukums": "Statūtos paredzētās rezerves",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "3360",
+      "Nosaukums": "Pārējās rezerves",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "3410",
+      "Nosaukums": "Pārskata gada nesadalītā peļņa",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "3420",
+      "Nosaukums": "Iepriekšējo gadu nesadalītā peļņa",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "4110",
+      "Nosaukums": "Uzkrājumi pensijām pielīdzinātām saistībām",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "4210",
+      "Nosaukums": "Uzkrājumi paredzamiem nodokļiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "4310",
+      "Nosaukums": "Citi uzkrājumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5110",
+      "Nosaukums": "Aizņēmumi pret obligācijām",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5120",
+      "Nosaukums": "Akcijās pārvēršamie aizņēmumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5130",
+      "Nosaukums": "Aizņēmumi ar līdzdalību peļņā",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5140",
+      "Nosaukums": "Citi aizņēmumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5150",
+      "Nosaukums": "Īstermiņa aizņēmumi no kredītiestādēm",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5160",
+      "Nosaukums": "Ilgtermiņa aizņēmumi no kredītiestādēm",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5170",
+      "Nosaukums": "Aizņēmumi no kredītiestādēm - bez norādītā termiņa",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5210",
+      "Nosaukums": "Norēķini par saņemtajiem avansiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5310",
+      "Nosaukums": "Norēķini ar piegādātājiem un darbuzņēmējiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5312",
+      "Nosaukums": "Norēķini ar piegādātājiem un darbuzņēmējiem 3.valstis",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5330",
+      "Nosaukums": "ES darijumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5350",
+      "Nosaukums": "Norēķini ar piegādātājiem - uzkrātās saistības",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5410",
+      "Nosaukums": "Norēķini par pašu izdotiem vekseļiem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5510",
+      "Nosaukums": "Norēķini par parādiem meitas uzņēmumiem",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5520",
+      "Nosaukums": "Norēķini par parādiem saistītiem uzņēmumiem",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5530",
+      "Nosaukums": "Norēķini par parādiem uzņēmumiem, ar kuriem ir līgums par līdzdalību",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5540",
+      "Nosaukums": "Norēķini par parādiem citiem uzņēmumiem un dalībniekiem",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5550",
+      "Nosaukums": "Norēķini par parādiem personālam",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5610",
+      "Nosaukums": "Norēķini par darba algu",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5620",
+      "Nosaukums": "Norēķini par ieturējumiem no darba algas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5700",
+      "Nosaukums": "Vienotais nodokļu konts",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5710",
+      "Nosaukums": "Norēķini par peļņas nodokli",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5720",
+      "Nosaukums": "Norēķini par citiem nodokļiem, nodevām un maksājumiem budžetam",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "572100",
+      "Nosaukums": "PVN BUDZETS",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "572105",
+      "Nosaukums": "PVN BILANCE",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "57221",
+      "Nosaukums": "PVN kreditori - pamatlikme",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5723",
+      "Nosaukums": "IIN",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5724",
+      "Nosaukums": "VSAOI",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5725",
+      "Nosaukums": "Uzņēmējdarbības riska valsts nodeva",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5810",
+      "Nosaukums": "Norēķini par pārskata gada dividendēm",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "5820",
+      "Nosaukums": "Norēķini par iepriekšējo gadu neizmaksātajām dividendēm",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "5910",
+      "Nosaukums": "Nākamo periodu ieņēmumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6110",
+      "Nosaukums": "Ieņēmumi no pamatdarbības produkcijas un pakalpojumu pārdošanas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6210",
+      "Nosaukums": "Ar nodokļiem neapliekamie pārdošanas ieņēmumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6220",
+      "Nosaukums": "Ar nodokļiem apliekamie pārdošanas ieņēmumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6221",
+      "Nosaukums": "Ieņēmumi no preču pārdošanas 3.valstis",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6310",
+      "Nosaukums": "Komisijas un starpniecības ieņēmumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6320",
+      "Nosaukums": "Ieņēmumi no atkritumu pārstrādes un realizācijas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6330",
+      "Nosaukums": "Ieņēmumi no taras realizācijas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6340",
+      "Nosaukums": "Ar nodokļiem neapliekami apgrozījumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6410",
+      "Nosaukums": "Piešķirtās skonto atlaides",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6420",
+      "Nosaukums": "Piešķirtie bonusi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6430",
+      "Nosaukums": "Piešķirtie rabati un citas tirdzniecības atlaides",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6510",
+      "Nosaukums": "Ieņēmumi no vērtspapīru kursa paaugstināšanās",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6530",
+      "Nosaukums": "Ieņēmumi no zemes gabalu iznomāšanas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6540",
+      "Nosaukums": "Ieņēmumi no apgrozāmo līdzekļu pārdošanas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6550",
+      "Nosaukums": "Ieņēmumi no pamatlīdzekļu iznomāšanas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6560",
+      "Nosaukums": "Ieņēmumos pārskaitītais rezervju un uzkrājumu samazinājums",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6570",
+      "Nosaukums": "Iepriekšējo gadu nodokļa samazinājums",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6580",
+      "Nosaukums": "Papildu ieguldījumi un citi ieņēmumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "6590",
+      "Nosaukums": "Pašu uzņēmuma kapitālieguldījumiem izpildītie darbi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6610",
+      "Nosaukums": "Gatavās produkcijas krājumu un vērtības izmaiņas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6620",
+      "Nosaukums": "Nepabeigto ražojumu krājumu un vērtības izmaiņas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6630",
+      "Nosaukums": "Nepabeigto pasūtījumu atlikumu un vērtības izmaiņas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6640",
+      "Nosaukums": "Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "6710",
+      "Nosaukums": "Citu periodu ieņēmumi, kas attiecas uz pārskata periodu",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7110",
+      "Nosaukums": "Izejvielu un materiālu iepirkšanas un piegādes izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7120",
+      "Nosaukums": "Preču iepirkšanas un piegādes izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7130",
+      "Nosaukums": "Saņemtās atlaides",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7140",
+      "Nosaukums": "Taras izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7150",
+      "Nosaukums": "Muitas un ievednodevas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7160",
+      "Nosaukums": "Pārējie ārējie izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7170",
+      "Nosaukums": "Samaksa par darbiem un pakalpojumiem",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7180",
+      "Nosaukums": "Pārējie materiālie izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7190",
+      "Nosaukums": "Pirkto materiālu un preču krājumu un vērtības izmaiņas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7210",
+      "Nosaukums": "Strādnieku algas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7220",
+      "Nosaukums": "Pārvaldes personāla un administratīvā personāla algas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7230",
+      "Nosaukums": "Sociālās infrastruktūras iestāžu un pasākumu darbinieku algas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7240",
+      "Nosaukums": "Pārējās personāla izmaksas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7310",
+      "Nosaukums": "Sociālais nodoklis",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7311",
+      "Nosaukums": "UD riska valsts nodeva",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7320",
+      "Nosaukums": "Pārējās sociālās izmaksas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7410",
+      "Nosaukums": "Nemateriālo ieguldījumu vērtības norakstīšana",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7420",
+      "Nosaukums": "Pamatlīdzekļu nolietojums",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7440",
+      "Nosaukums": "Apgrozāmo līdzekļu vērtības norakstīšana",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7510",
+      "Nosaukums": "Dabas aizsardzības izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7530",
+      "Nosaukums": "Nodevas par ražošanā izmantotiem zemes gabaliem",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7540",
+      "Nosaukums": "Apdrošināšanas maksājumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7550",
+      "Nosaukums": "Pārējie saimnieciskās darbības izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7560",
+      "Nosaukums": "Strādnieku vervēšanas un apmācības izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7570",
+      "Nosaukums": "Komandējumu izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7610",
+      "Nosaukums": "Iesaiņojamais materiāls, tara",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7620",
+      "Nosaukums": "Preču transporta izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7629",
+      "Nosaukums": "Transporta izdevumi - 50% neatskaitāmā daļa",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7630",
+      "Nosaukums": "Preču transporta apdrošināšana",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7640",
+      "Nosaukums": "Samaksātās komisijas naudas",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7650",
+      "Nosaukums": "Citi pārdošanas izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7710",
+      "Nosaukums": "Sakaru izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7720",
+      "Nosaukums": "Kantora izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7730",
+      "Nosaukums": "Jurista pakalpojumu apmaksa",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "7740",
+      "Nosaukums": "Gada pārskata un revīzijas izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7750",
+      "Nosaukums": "Naudas apgrozījuma blakus izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7760",
+      "Nosaukums": "Transporta izdevumi administrācijas vajadzībām",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "7770",
+      "Nosaukums": "Citi vadīšanas un administrācijas izdevumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8120",
+      "Nosaukums": "Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8150",
+      "Nosaukums": "Ienākumi no valūtu kursa paaugstināšanās",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8160",
+      "Nosaukums": "Saņemtās soda naudas un līgumsodi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8190",
+      "Nosaukums": "Citi ieņēmumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8220",
+      "Nosaukums": "Samaksātie procenti un tiem pielīdzināmie izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8240",
+      "Nosaukums": "Ilgtermiņa aizdevumu procentu samaksa",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8250",
+      "Nosaukums": "Zaudējumi no valūtu kursa pazemināšanas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8260",
+      "Nosaukums": "Samaksātās soda naudas un līgumsodi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8290",
+      "Nosaukums": "Citi izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8310",
+      "Nosaukums": "Ārkārtas ieņēmumi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8410",
+      "Nosaukums": "Ārkārtas izdevumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8610",
+      "Nosaukums": "Peļņa vai zaudējumi",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8710",
+      "Nosaukums": "Peļņas izlietojums",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8810",
+      "Nosaukums": "Nodoklis no peļņas",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    },
+    {
+      "Konts": "8820",
+      "Nosaukums": "Nodoklis par dabas resursu izmantošanu no peļņas maksājamā daļā",
+      "Konta tips": "Parasts konts",
+      "Valūta": "EUR"
+    },
+    {
+      "Konts": "8830",
+      "Nosaukums": "Nodoklis par zemi",
+      "Valūta": "EUR",
+      "Konta tips": "Parasts konts"
+    }
+  ]
+}

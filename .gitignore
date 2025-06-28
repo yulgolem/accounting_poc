@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Docker
+docker-compose.override.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Results
+results/
+
+# Examples
+examples/
